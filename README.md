@@ -5,3 +5,5 @@
 ```bash
 python -m streamlit run dashboard.py
 ```
+
+Link aula: https://www.youtube.com/watch?v=P6E_Kts9pxE
